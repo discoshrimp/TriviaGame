@@ -15,3 +15,20 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 #spacer{
     height: 200px;
 }
+#question{
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    font-size: 25px;
+}
+.answer-display{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    font-size: 50px;
+}
+
+.answer{
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    font-size: 18px;    
+}
